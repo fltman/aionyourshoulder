@@ -1,0 +1,14 @@
+.env
+screenshot_analyzer.py
+screenshots/screenshot_20241227_231631.png
+screenshots/screenshot_20241227_231700.png
+screenshots/screenshot_20241227_231732.png
+screenshots/screenshot_20241227_231816.png
+screenshots/screenshot_20241227_231904.png
+screenshots/screenshot_20241227_231936.png
+temp_audio/voice_20241227_231639.mp3
+temp_audio/voice_20241227_231709.mp3
+temp_audio/voice_20241227_231741.mp3
+temp_audio/voice_20241227_231828.mp3
+temp_audio/voice_20241227_231912.mp3
+temp_audio/voice_20241227_231946.mp3
